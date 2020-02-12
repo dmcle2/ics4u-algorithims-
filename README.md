@@ -1,2 +1,2 @@
-# ics4u-algorithims-
-recording exploration into algs
+# ics4u-algorithms-
+recording exploration into algorithms
